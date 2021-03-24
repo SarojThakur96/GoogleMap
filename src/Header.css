@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    height: 10vh;
+}
+.icon{
+    height: 70px !important;
+    width: 70px !important;
+    color: rgb(45, 189, 189);
+}

@@ -1,0 +1,33 @@
+.option{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+     padding: 20px;
+}
+.option-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+    height: 15vh;
+    border-radius: 15px;
+    background-color: rgb(45, 189, 189);
+    box-shadow: 2px 10px 10px 0px rgba(0,0,0,0.64);
+   -webkit-box-shadow: 2px 10px 10px 0px rgba(0,0,0,0.64);
+    -moz-box-shadow: 2px 10px 10px 0px rgba(0,0,0,0.64);
+}
+.option-right-right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.right-icon{
+    color: rgb(45, 189, 189);
+    margin-left: 10px;
+}
+.center-icon{
+    height: 50px !important;
+    width: 50px !important;
+    margin-right: 20px;
+}
