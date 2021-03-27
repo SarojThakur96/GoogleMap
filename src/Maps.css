@@ -8,3 +8,7 @@
      margin-right: 9%;
      position:relative;
 }
+.leaflet-container {
+    height: 50vh;
+    width:82%;
+}
