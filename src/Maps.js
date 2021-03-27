@@ -27,7 +27,7 @@ function Maps({ latitude, longitude }) {
 
                 <Marker key={1} position={position} icon={icon}>
                     <Popup>
-                        A pretty CSS3 popup. <br /> Easily customizable.
+                       Your location
                    </Popup>
               </Marker>
                 
